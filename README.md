@@ -8,7 +8,6 @@ DicyaninARKitSession manages a single ARKit session and distributes hand trackin
 
 ## Requirements
 
-- iOS 17.0+
 - visionOS 1.0+
 - Swift 5.9+
 
