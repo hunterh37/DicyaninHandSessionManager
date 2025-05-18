@@ -1,6 +1,6 @@
 # DicyaninARKitSession
 
-A Swift package that provides a shared ARKit session manager for hand tracking in visionOS and iOS applications.
+A Swift package that provides a shared ARKit session manager for hand tracking in visionOS applications.
 
 ## Overview
 
